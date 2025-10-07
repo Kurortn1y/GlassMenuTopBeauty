@@ -11,7 +11,7 @@ import SwiftUI
 struct GlassMenuTopBeautyApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            GlassMenuAuuufff()
         }
     }
 }
